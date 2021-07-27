@@ -1,0 +1,9 @@
+{
+    "eslint.workingDirectories": [
+        "./wilder",
+        "./skill",
+        "./vote",
+        "./query",
+        "./client"
+    ]
+}
